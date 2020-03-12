@@ -144,3 +144,26 @@ h6{ font-size: 16px; line-height: 16px; font-weight: 100; }
 
 /* Text */
 p{ font-size: 17px; color: rgba(0,0,0,.9); }
+
+
+/* href */
+
+
+/* Стили добавленные Халидом */
+.logo {
+
+}
+.logo img {
+    width: 40px;
+    border-radius: 50px;
+}
+.collapse {
+        margin-left: 25%;
+}
+.register {
+    
+}
+.register:hover {
+    color: #fff;
+    text-decoration: none;
+}
